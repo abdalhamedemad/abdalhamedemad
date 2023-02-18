@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue js**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **medo.emadd23@gmail.com**
 
