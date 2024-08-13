@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalhamedemad&label=Profile%20views&color=0e75b6&style=flat" alt="abdalhamedemad" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Vuejs, Reactjs**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **medo.emadd23@gmail.com**
 
